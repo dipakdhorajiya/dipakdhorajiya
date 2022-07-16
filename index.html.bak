@@ -55,7 +55,7 @@
                 </nav>
                 <div class="hero flex items-center justify-between">
                     <div class="left flex-1 flex justify-center">
-                        <img src="./images/man.png" alt="">
+                        <img src="./images/dipak-removebg-preview.png" alt="">
                     </div>
                     <div class="right flex-1">
                         <h6>Dipak Dhorajiya</h6>
@@ -134,7 +134,7 @@
 
                     <div class="card">
                         <img src="./images/media.png" alt="">
-                        <h2>Automation Anywhere</h2>
+                        <h2>Automation Anywheres</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem, consequuntur.</p>
                     </div>
 
