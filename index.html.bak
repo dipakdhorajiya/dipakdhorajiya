@@ -359,21 +359,22 @@
               <!-- <h5>May'22 - Present</h5> -->
               <p><em>FeatSystems, Mumbai, India</em></p>
               <ul>
-			    <li>  Implemented End to End Robotic Process Automation (RPA) using UiPath.</li>
+			    <li> Implemented End to End Robotic Process Automation (RPA) using UiPath.</li>
 				<li> Used Uipath automation elements - Mouse, Keyboard, and Attribute to automate desktop sequence activities.</li>
 				<li> Implemented selectors for interacting with Windows and web browsers for continuous navigation of applications.</li>
-				<li>  Image-based texts in applications are also automated with mouse clicks.</li>
+				<li> Image-based texts in applications are also automated with mouse clicks.</li>
 				<li> Worked with SME's to create PDD (Process Definition Document); developed SDD (Solution Design Document)</li>
-				<li> Creatng PDD (Process Description Document) and SDD (Solution Design Document)in details.</li>
-				<li> Able to create the To-Be Design and solutioning independently.</li>
+				<li> Used Screen Scraping methods to extract text from running window applications by appropriate output methods such as native, full text, and OCR.</li>
+				<li> Implemented Web Recorder for automating logging and inserting data actions into browser applications using different Input methods.</li>
 				<li> Knowledge on UiPath products.</li>
-				<li> Participating in brainstorming sessions with RPA Design leads to provide inputs for robotic process automation solutions.</li>
-				<li> Prepare and present analysis, methods and results to non-expert personnel, management team and technical experts throughout different projects and processes.</li>
-				<li> Serve as a subject matter expert (SME) for others seeking to utilize RPA technologies to automate and streamline existing manual business processes.</li>
+				<li> Configured new processes using core workflow principles that are efficient, well-structured, and manageable.</li>
+				<li> Used Data Scraping method for extracting structured data from browser applications or documents into a CSV file or Excel Spreadsheet.</li>
+				<li> Used image activities with wait conditions to ensure the proper website or application loading, to perform certain actions in a loop.</li>
 				<li> Strong process minded thinking, problem solvers/ solution oriented.</li>
-				<li> Experience in adapting to defined document templates and getting signoff from client on requirements.</li>
-				<li> Gathering requirements on RPA point of view and integration parameters.</li>
-				<li> Ability to engage with stakeholders to understand and respond to their needs in rapidly changing business environments.</li>
+				<li> Used Excel automation for repetitive Excel data entry, appending, and comparing columns.</li>
+				<li> Handled the Execution of the project in UiPath Robot.</li>
+				<li> Deployed the process in UiPath Orchestrator and scheduled their execution.</li>
+				<li> Configured the Bots and deploying processes and scheduled the jobs in UiPath Orchestrator.</li>
 			  </ul>
 			  
 
