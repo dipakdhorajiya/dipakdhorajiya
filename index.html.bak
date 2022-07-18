@@ -55,7 +55,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
 	
-      <h1>Jinal Shah</h1>
+      <h1>Dipak Dhorajiya</h1>
       <p>I'm <span class="typed" data-typed-items="RPA Developer, Website Designer, Photographer"></span></p>
       <div class="social-links">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -329,33 +329,33 @@
           <div class="col-lg-6">
             <h3 class="resume-title">Summary</h3>
             <div class="resume-item pb-0">
-              <h4>Jinal Shah</h4>
+              <h4>Dipak Dhorajiya</h4>
               <p><em>Having 4.5+ years of experience in object-oriented analysis, design, and development, maintenance, support of large-scale n-tier enterprise applications. Well-versed in both Server-side and Client-side programming.</em></p>
               <ul>
-                <li>Bangalore, India</li>
-                <li>+91 7404576669</li>
-                <li>techieshah93@gmail.com</li>
+                <li>Mumbai, India</li>
+                <li>+91 7096693626</li>
+                <li>Dhorajiya99@gmail.com</li>
               </ul>
             </div>
 
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Master of Science in Information Technology</h4>
-              <h5>2014 - 2016</h5>
-              <p><em>Ahmedabad, Gujarat, India</em></p>
+              <h4>Master of Computer Application</h4>
+              <h5>2015 - 2018</h5>
+              <p><em>Varanshi, Uttar Pradesh, India</em></p>
               
 			  </div>
             <div class="resume-item">
               <h4>Bachelor of Computer Application</h4>
-              <h5>2011 - 2014</h5>
-              <p><em>Gujarat Univeristy</em></p>
+              <h5>2012 - 2015</h5>
+              <p><em>Mahatma Gandhi Kashi Vidhyapith,Varanshi</em></p>
               <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
             </div>
           </div>
           <div class="col-lg-6">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>RPA Business Analyst</h4>
+              <h4>RPA Developer</h4>
               <!-- <h5>May'22 - Present</h5> -->
               <p><em>FeatSystems, Mumbai, India</em></p>
               <ul>
@@ -379,9 +379,9 @@
 
             </div>
 			<div class="resume-item">
-              <h4>Senior Software Engineer</h4>
+              <h4>Senior Web Developer</h4>
               <!-- <h5>2019 </h5> -->
-              <p><em>NTT Data - NDFS, Bangalore, India </em></p>
+              <p><em>Frontlink Technology, Surat, India </em></p>
               <ul>
 				<li>Developed POC’s and defined standard for the Web Application as Team player of Architecture Team.</li>
 				<li>Co-ordinated in design and implementation activities, collaborated with Senior Manager-PMO, Chief Architect, Project Managers, Team Lead and QA teams.</li>
@@ -396,9 +396,9 @@
 			  </ul>
 			</div>
             <div class="resume-item">
-              <h4>Software Engineer</h4>
+              <h4>RPA Developer</h4>
               <!-- <h5>2017</h5> -->
-              <p><em>Tavant Technologies, Santa Clara, California, United States</em></p>
+              <p><em>FeatSystems, Mumbai, India</em></p>
               <ul>
 			  			<li>Involved in deployment and mentoring team members.</li>
 						<li>Co-ordinated in design and implementation activities, collaborated with project managers and engineering teams.</li>
