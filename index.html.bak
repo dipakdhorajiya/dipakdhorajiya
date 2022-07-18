@@ -87,7 +87,7 @@
           <div class="col-lg-8 pt-4 pt-lg-0 content">
             <h3>RPA Developer &amp; Website Designer.</h3>
             <p class="fst-italic">
-              Website Developer with 2.5+ years of experience in Web Developing 
+              Website Developer with 2.5+ years of experience in Creative Web Developing 
             </p>
            </p>
             <div class="row">
@@ -320,7 +320,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title" class="center">
-          <h2>CV</h2>
+          <h2 id="CV">CV</h2>
 		  <p>Enthusiastic FullStack Developer 👨‍💻 , eager to contribute to team success through hard work, attention to detail, and excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
           
         </div>
