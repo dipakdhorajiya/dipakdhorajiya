@@ -44,7 +44,7 @@
         <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
         <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
         <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>My Skiils</span></a></li>
-        <li><a href="#CV" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Work Experiences</span></a></li>
+        <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Work Experiences</span></a></li>
         <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
       </ul>
     </nav><!-- .nav-menu -->
@@ -320,7 +320,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title" class="center">
-          <h2 id="CV">CV</h2>
+          <h2>CV</h2>
 		  <p>Enthusiastic FullStack Developer 👨‍💻 , eager to contribute to team success through hard work, attention to detail, and excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
           
         </div>
@@ -330,7 +330,7 @@
             <h3 class="resume-title">Summary</h3>
             <div class="resume-item pb-0">
               <h4>Dipak Dhorajiya</h4>
-              <p><em>Having 4.5+ years of experience in object-oriented analysis, design, and development, maintenance, support of large-scale n-tier enterprise applications. Well-versed in both Server-side and Client-side programming.</em></p>
+              <p><em>Having 2.5+ years of experience in object-oriented analysis, design, and development, maintenance, support of large-scale n-tier enterprise applications. Well-versed in both Server-side and Client-side programming.</em></p>
               <ul>
                 <li>Mumbai, India</li>
                 <li>+91 7096693626</li>
@@ -359,11 +359,11 @@
               <!-- <h5>May'22 - Present</h5> -->
               <p><em>FeatSystems, Mumbai, India</em></p>
               <ul>
-			    <li> Creating and maintaining documentation, as well as support controls and quality assurance for key stakeholders and suppliers.</li>
-				<li> Identify and support cut-over and implementation tasks.</li>
-				<li> Trace and link business requirements to future state design.</li>
-				<li> Creating and execute test scenarios and test scripts at various stages of the project to validate the solution design.</li>
-				<li> Basic and High-Level knowledge of Orchestrator.</li>
+			    <li>  Implemented End to End Robotic Process Automation (RPA) using UiPath.</li>
+				<li> Used Uipath automation elements - Mouse, Keyboard, and Attribute to automate desktop sequence activities.</li>
+				<li> Implemented selectors for interacting with Windows and web browsers for continuous navigation of applications.</li>
+				<li>  Image-based texts in applications are also automated with mouse clicks.</li>
+				<li> Worked with SME's to create PDD (Process Definition Document); developed SDD (Solution Design Document)</li>
 				<li> Creatng PDD (Process Description Document) and SDD (Solution Design Document)in details.</li>
 				<li> Able to create the To-Be Design and solutioning independently.</li>
 				<li> Knowledge on UiPath products.</li>
